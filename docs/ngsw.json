@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1662019520479,
+  "index": "/angular-web02/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/angular-web02/favicon.ico",
+        "/angular-web02/index.html",
+        "/angular-web02/main.21696132ad995f16.js",
+        "/angular-web02/manifest.webmanifest",
+        "/angular-web02/polyfills.7aa2c74c7f13be17.js",
+        "/angular-web02/runtime.0bd3090770d7e482.js",
+        "/angular-web02/styles.f26cdcb57409ceba.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/angular-web02/assets/icons/icon-128x128.png",
+        "/angular-web02/assets/icons/icon-144x144.png",
+        "/angular-web02/assets/icons/icon-152x152.png",
+        "/angular-web02/assets/icons/icon-192x192.png",
+        "/angular-web02/assets/icons/icon-384x384.png",
+        "/angular-web02/assets/icons/icon-512x512.png",
+        "/angular-web02/assets/icons/icon-72x72.png",
+        "/angular-web02/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/angular-web02/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-web02/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-web02/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-web02/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-web02/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-web02/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-web02/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-web02/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-web02/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/angular-web02/index.html": "6db3062478cde41cd84bbdaf5a14f377d75d6f0d",
+    "/angular-web02/main.21696132ad995f16.js": "2b3d0cefc4ab83870e1c22289825d381e262463b",
+    "/angular-web02/manifest.webmanifest": "944bc2b52897682ee506b5ae04173087502bb352",
+    "/angular-web02/polyfills.7aa2c74c7f13be17.js": "10b883d617f0177f199b1def9e58de623280f6f2",
+    "/angular-web02/runtime.0bd3090770d7e482.js": "2ec46205eed1541faa99d88a727862cc1a7c66e1",
+    "/angular-web02/styles.f26cdcb57409ceba.css": "15675f4eafadd6fbe22d03e4b29f87edb0e9d4a2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
